@@ -1,0 +1,1 @@
+curl https://raw.githubusercontent.com/dahilzen/Mobilfunk-Scrape/master/Alle_Funkmasten_BRD.csv -o Alle_Funkmasten_BRD.csv
