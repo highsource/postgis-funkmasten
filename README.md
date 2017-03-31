@@ -9,11 +9,11 @@ Creates a Postgis database and imports following datasets:
 
 # Usage
 
-* 01-create-postgis-funkmasten-database.bat - creates the Postgis database `funkmasten`
-* 10-download-funkmasten.bat - downloads [Cell Towers from EMF-Database of BNetzA](https://github.com/dahilzen/Mobilfunk-Scrape)
-* 11-import-funkmasten-csv.bat - imports `Alle_Funkmasten_BRD.csv` downloaded on the previous step
+* `01-create-postgis-funkmasten-database.bat` - creates the Postgis database `funkmasten`
+* `10-download-funkmasten.bat` - downloads [Cell Towers from EMF-Database of BNetzA](https://github.com/dahilzen/Mobilfunk-Scrape)
+* `11-import-funkmasten-csv.bat` - imports `Alle_Funkmasten_BRD.csv` downloaded on the previous step
 * Download of OpenCellID data is not implemented yet, you have to download and unzip manually
-* 21-import-cell-towers-csv.bat - imports `cell_tower.csv`
+* `21-import-cell-towers-csv.bat` - imports `cell_tower.csv`
 
 # Result
 
