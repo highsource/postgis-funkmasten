@@ -7,6 +7,8 @@ Creates a Postgis database and imports following datasets:
 * [Cell Towers from EMF-Database of BNetzA](https://github.com/dahilzen/Mobilfunk-Scrape)
 * [OpenCellID](http://opencellid.org/downloads/)
 
+![Cell Towers from EMF Database of BNetzA - Screenshot from QGIS](assets/images/emf-funkmasten.png)
+
 # Usage
 
 * `01-create-postgis-funkmasten-database.bat` - creates the Postgis database `funkmasten`
